@@ -5,6 +5,7 @@ craig_andrews:
     role: Principal Engineer
     tribe: Data
     bio: "Craig was responsible for the Hadoop platform back in its early days as we struggled with bash scripts gluing Hive queries together, and invented our Pidl Ruby DSL to resolve this problem."
+    hasLeft: true
 
 andy_burgin:
     name: Andy Burgin
@@ -95,6 +96,7 @@ tom_scott:
     role: Principal Data Engineer
     tribe: Data
     bio: "Tom provided technical leadership for the SB&G Hadoop data team when he wasn't driving his family around in his minibus. After working in our cutting edge team till Nov 2015, he now works for Cloudera."
+    hasLeft: true
 
 rob_tuley:
     name: Rob Tuley
@@ -318,10 +320,10 @@ marcus_ojerinde_ardalla:
 ashley_broadley:
     name: Ashley Broadley
     image: ashley_broadley.png
-    role: Principal Engineer
-    tribe: Gaming
+    role: Engineering Manager
+    tribe: Data
     startDate: 06-02-2012
-    bio: "Likes Programming, Board Games, Cycling, Squash, Thai Boxing and Pilates."
+    bio: "Likes People & Culture, Programming, Board Games, Cycling, Squash, Thai Boxing and Pilates."
     github: ls12styler
     twitter: ls12styler
 
@@ -485,3 +487,11 @@ chris_buckley:
     bio: "Architect with an engineering background and a passion for working software. Loves pulling things apart and deleting as much as possible."
     github: cmbuckley
     twitter: _cmbuckley
+
+jamie_munro:
+    name: Jamie Munro
+    image: jmunro.jpg
+    role: Lead Engineer
+    tribe: Trading
+    startDate: 06-08-2012
+    bio: "Lead Software Engineer within the Trading Models squad."
